@@ -28,6 +28,12 @@ To install pip, you can [follow the instructions on the pip website]. For a Mac,
 2. Run the command `python get-pip.py` in your terminal (you should either be inside the folder with the `get-pip.py` file in it, or prefix the name of the file in the command with the path to the file - in my case this was `packages/get-pip.py`)
 
 You should see this in your terminal:
-![pip successfully installed](http://imgur.com/LAS9XTI)
+![pip successfully installed](https://github.com/iteles/learn-huxley/blob/master/images/Successfully-installed-pip.png)
 
 I initially had some permissions issues so I ran `sudo python get-pip.py` to run the command as a superuser.
+
+####Installing Huxley
+To install Huxley, just run `pip install huxley` in your terminal (try prefacing this with `sudo` if you run into permissions issues).
+
+You should see this in your terminal:
+![Huxley successfully installed](https://github.com/iteles/learn-huxley/blob/master/images/Successfully-installed-huxley.png)
